@@ -1,3 +1,4 @@
+//Striver A2Z Pattern 6//
 #include <iostream>
 using namespace std;
 int main()
