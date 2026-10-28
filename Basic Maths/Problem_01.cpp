@@ -19,7 +19,6 @@ int main()
             count++;
         }
     }
-    
-    cout << "Number of digits = " << count;
+    cout << "Number of digits = " << count; 
     return 0;
 }
