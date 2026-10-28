@@ -6,9 +6,9 @@ int main()
     cout << "Enter value of n: ";
     cin >> n;
     int i, j;
-    for(i=0; i<n; i++)
+    for(i=1; i<=n; i++)
     {
-        for(j=0; j<n; j++)
+        for(j=1; j<=n; j++)
         {
             cout << "*";
         }
